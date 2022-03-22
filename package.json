@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "typescript": "^4.6.2"
+  },
+  "name": "recursive-binary-search",
+  "description": "## Búsqueda Binaria Recursiva",
+  "version": "1.0.0",
+  "main": "recursive.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts-init": "tsc --init",
+    "compile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elcuy/recursive-binary-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elcuy/recursive-binary-search/issues"
+  },
+  "homepage": "https://github.com/elcuy/recursive-binary-search#readme"
+}
